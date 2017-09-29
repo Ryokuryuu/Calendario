@@ -1,11 +1,11 @@
 h1{text-align: center;}
 
-#calendar {margin:0 auto; font-family:Arial; font-size:12px; }
+#calendar {margin:0 auto; font-family:Arial; font-size:12px; width: 500px;}
 
-#calendar caption {text-align:left; padding:5px 10px; background-color:#003369; color:#fff; font-weight:bold;}
+#calendar caption {text-align:left; padding:5px 10px; background-color:#a6ff4d; color:#fff; font-weight:bold;}
 
-#calendar th {background-color:#006699; color:#fff; width:40px;}
+#calendar th {background-color:#59b300; color:#fff; width:40px;}
 
-#calendar td {text-align:right; padding:2px 5px; background-color:silver;}
+#calendar td {text-align:center; padding:2px 5px; background-color:#d9ffb3;}
 
 

@@ -22,7 +22,7 @@
 
 	<head>
 
-		<title>Ejemplo de un simple calendario en PHP</title>
+		<title>Calendario AWS2-03</title>
 
 		<meta charset="utf-8">
 
